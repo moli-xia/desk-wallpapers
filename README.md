@@ -1,5 +1,5 @@
 # 🎨 桌面壁纸屏保工具
-
+![](https://s3.bmp.ovh/imgs/2025/07/19/3e9d9a80852cdf84.png)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
